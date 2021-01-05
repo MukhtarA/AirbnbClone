@@ -38,10 +38,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     flexDirection: 'row',
     position: 'absolute',
-    top: 30,
+    top: 20,
     zIndex: 100,
   },
-  searchButtonText:{
+  searchButtonText: {
     fontSize: 16,
     fontWeight: 'bold',
   },
